@@ -13,7 +13,7 @@
 
 ## Contact Me
 
-<p><em>1.hpu undergraduate at <a href="http://www.hpu.edu.cn/www/index.html">SIAT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>1.A Master degree.master undergraduate at SIAT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p><em>2.QQ：1042422895@qq.com</em></p>
 
