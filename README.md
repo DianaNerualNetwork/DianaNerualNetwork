@@ -29,11 +29,9 @@
 
 ## Visitor Statistics
 
-<img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+  <img src="https://profile-counter.glitch.me/DianaNerualNetwork/count.svg" />
 </p>
 
 
