@@ -1,4 +1,4 @@
-<strong> Hi, I'm Github SIAT-Baird Xiong! 你学习到越多你就会越幸运的遇到机会<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
+<strong> Hi, I'm Github SIAT-Baird Xiong! Be a Lifelong learner! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>
 
 ## Github Statistics
 
@@ -15,12 +15,13 @@
 
 <p><em>1.A Master degree.master undergraduate at SIAT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>2.QQ：1042422895@qq.com</em></p>
+<p><em>2.As PPDE(PaddlePaddle Developer Experts).PaddlePaddle Aistudio 2022 Top 10 Influencers.</em></p>
+<p><em>3.QQ：1042422895@qq.com</em></p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>3.WeChat：xb_IME</em></p>
-<p><em>4.The programming language I use：</em></p>
+<p><em>4.WeChat：xb_IME</em></p>
+<p><em>5.The programming language I use：</em></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaNerualNetwork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
