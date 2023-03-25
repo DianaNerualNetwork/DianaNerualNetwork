@@ -22,7 +22,7 @@
 <p><em>3.WeChat：xb_IME</em></p>
 <p><em>4.The programming language I use：</em></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaNerualNetwork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
