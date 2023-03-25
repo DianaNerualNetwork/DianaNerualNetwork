@@ -15,14 +15,14 @@
 
 <p><em>1.hpu undergraduate at <a href="http://www.hpu.edu.cn/www/index.html">SIAT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>2.QQ：wrs603329354@qq.com</em></p>
+<p><em>2.QQ：1042422895@qq.com</em></p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>3.WeChat：wzMoonquakes</em></p>
+<p><em>3.WeChat：xb_IME</em></p>
 <p><em>4.The programming language I use：</em></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangRongsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
