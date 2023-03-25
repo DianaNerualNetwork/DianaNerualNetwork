@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DianaNerualNetwork/count.svg)
+
+![BairdXiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+
+![decription](https://img.shields.io/badge/tools-pycharm-green)
