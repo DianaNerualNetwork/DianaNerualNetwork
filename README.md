@@ -9,6 +9,14 @@
 
 ![Baird's github stats](https://github-readme-stats.vercel.app/api?username=Baird&show_icons=true&theme=cobalt&count_private=true)
 
+* 📖 Pursuing Master's degree in Electronic Information @ [Shenzhen Institute of Advanced Technology](https://www.siat.ac.cn/). 
+
+* 🎓 Conducting research on **AI** and **Computer Vision** @ [the Multi-modal Intelligent Lab (miX) Lab](http://qin-mixlab.cn/index/LabMembers.html).
+
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing, Medical Imaging.
+
 ---
 
 ## Contact Me
