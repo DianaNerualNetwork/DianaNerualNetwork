@@ -15,7 +15,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing, Medical Imaging.
+* 💻 Currently working on Semantic Segmentation, Medical Imaging,Computational Imaging.
 
 ---
 
