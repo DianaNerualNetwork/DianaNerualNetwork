@@ -17,21 +17,6 @@
 
 * 💻 Currently working on Semantic Segmentation, Medical Imaging,Computational Imaging.
 
----
-
-## Contact Me
-
-<p><em>1.A Master degree.master undergraduate at SIAT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<p><em>2.As PPDE(PaddlePaddle Developer Experts).PaddlePaddle Aistudio 2022 Top 10 Influencers.</em></p>
-<p><em>3.QQ：1042422895@qq.com</em></p>
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-<p><em>4.WeChat：xb_IME</em></p>
-<p><em>5.The programming language I use：</em></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaNerualNetwork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
