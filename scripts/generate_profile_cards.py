@@ -555,11 +555,12 @@ def render_about_card() -> str:
         f'<text x="36" y="42" fill="#FFFFFF" font-family="Segoe UI, Ubuntu, Sans-Serif" '
         f'font-size="26" font-weight="800">Bing Xiong</text>'
         f'<text x="36" y="72" fill="#DBEAFE" font-family="Segoe UI, Ubuntu, Sans-Serif" '
-        f'font-size="15" font-weight="600">National University of Singapore</text>'
+        f'font-size="15" font-weight="600">National University of Singapore | '
+        f'M.S. SIAT (CAS) | B.Eng. WUT</text>'
         f'<text x="36" y="96" fill="#BFDBFE" font-family="Segoe UI, Ubuntu, Sans-Serif" '
         f'font-size="13" font-weight="500">'
         f"Research: AI4Healthcare / Medical Imaging | "
-        f"GitHub: github.com/DianaNerualNetwork"
+        f"Email: xb1personal0mailbox@gmail.com"
         f"</text>"
         f"{chip_svg}"
         f"</svg>\n"

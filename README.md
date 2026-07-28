@@ -2,14 +2,19 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/DianaNerualNetwork">
         <img src="https://img.shields.io/badge/GitHub-DianaNerualNetwork-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100%">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="34%">
+      <a href="mailto:xb1personal0mailbox@gmail.com">
+        <img src="https://img.shields.io/badge/Email-xb1personal0mailbox%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="100%">
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/DianaNerualNetwork?tab=repositories">
-        <img src="https://img.shields.io/badge/Repositories-All%20Projects-2563EB?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" width="100%">
+        <img src="https://img.shields.io/badge/Repositories-All%20Projects-60A5FA?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" width="100%">
       </a>
     </td>
   </tr>
@@ -19,10 +24,12 @@
 
 <img src="./profile/about-card.svg" alt="About Bing Xiong" width="100%">
 
-- 🎓 National University of Singapore
-- 🔬 Research Fields: **AI4Healthcare** / **Medical Imaging**
-- 💡 Interests: Computational Pathology, Virtual Staining, Medical Imaging
-- 📖 Lifelong learner — open to collaborating on projects and innovative ideas
+- Bachelor: Wuhan University of Technology
+- Master: Shenzhen Institutes of Advanced Technology (SIAT), CAS
+- Currently: National University of Singapore
+- Research Fields: AI4Healthcare / Medical Imaging
+- Interests: Computational Pathology, Virtual Staining, Medical Imaging
+- Email: xb1personal0mailbox@gmail.com
 
 ### GitHub Stats
 
@@ -88,6 +95,8 @@
     <td align="center">
       <b>Feel free to reach out for research discussion & collaboration.</b><br>
       <a href="https://github.com/DianaNerualNetwork">github.com/DianaNerualNetwork</a>
+      ·
+      <a href="mailto:xb1personal0mailbox@gmail.com">xb1personal0mailbox@gmail.com</a>
     </td>
   </tr>
 </table>
