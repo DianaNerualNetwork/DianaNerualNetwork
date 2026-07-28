@@ -571,9 +571,25 @@ def main() -> int:
     repos = fetch_owned_repos()
     by_name = {r.get("name"): r for r in repos}
 
-    total_stars = sum(int(r.get("stargazers_count") or 0) for r in repos)
-    total_forks = sum(int(r.get("forks_count") or 0) for r in repos)
-    lang_counter = fetch_language_bytes(repos, top_n=25)
+    featured = []
+    for name in FEATURED_REPOS:
+        if "/" in name:
+            # External repo (e.g. "PaddlePaddle/PaddleDepth") — fetch directly.
+            featured.append(api_get(f"{API}/repos/{name}"))
+        elif name in by_name:
+            featured.append(by_name[name])
+    if not featured:
+        featured = sorted(
+            repos, key=lambda r: int(r.get("stargazers_count") or 0), reverse=True
+        )[:4]
+
+    # Own projects hosted under org accounts still count toward the totals.
+    external = [r for r in featured if r.get("full_name", "").split("/")[0] != USERNAME]
+    counted = repos + external
+
+    total_stars = sum(int(r.get("stargazers_count") or 0) for r in counted)
+    total_forks = sum(int(r.get("forks_count") or 0) for r in counted)
+    lang_counter = fetch_language_bytes(counted, top_n=25)
     if not lang_counter:
         for repo in repos:
             lang = repo.get("language")
@@ -611,18 +627,6 @@ def main() -> int:
     langs_path.write_text(langs_svg, encoding="utf-8")
     stats_v_path.write_text(stats_svg, encoding="utf-8")
     langs_v_path.write_text(langs_svg, encoding="utf-8")
-
-    featured = []
-    for name in FEATURED_REPOS:
-        if "/" in name:
-            # External repo (e.g. "PaddlePaddle/PaddleDepth") — fetch directly.
-            featured.append(api_get(f"{API}/repos/{name}"))
-        elif name in by_name:
-            featured.append(by_name[name])
-    if not featured:
-        featured = sorted(
-            repos, key=lambda r: int(r.get("stargazers_count") or 0), reverse=True
-        )[:4]
 
     for repo in featured:
         path = OUT_DIR / f"pin-{repo['name']}.svg"
