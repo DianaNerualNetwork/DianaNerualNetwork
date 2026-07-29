@@ -101,8 +101,5 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DianaNerualNetwork/count.svg" alt="Visitor count">
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B3D,45:1D4ED8,100:60A5FA&height=90&section=footer" alt="footer" width="100%">
