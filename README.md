@@ -27,8 +27,8 @@
 - Bachelor: Wuhan University of Technology
 - Master: Shenzhen Institutes of Advanced Technology (SIAT), CAS
 - Currently: National University of Singapore
-- Research Fields: AI4Healthcare / Medical Imaging
-- Interests: Computational Pathology, Virtual Staining, Medical Imaging
+- Research Fields: AI4Healthcare / Medical Imaging / MLLM 
+- Interests: Computational Pathology, Virtual Staining, Medical Imaging, MLLM
 - Email: xb1personal0mailbox@gmail.com
 
 ### GitHub Stats
