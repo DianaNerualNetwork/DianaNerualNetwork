@@ -25,7 +25,7 @@
 <g class="card-body">
   <rect class="card" x="0.5" y="0.5" width="399" height="117" rx="8"/>
   <text class="name" x="18" y="30">USIGAN</text>
-  <text class="desc" x="18" y="54">Official implement of "USIGAN: Unbalanced</text><text class="desc" x="18" y="70">Self-Information Feature Transport for Wea...</text>
+  <text class="desc" x="18" y="54">Official implement of IEEE TIP26:"USIGAN:</text><text class="desc" x="18" y="70">Unbalanced Self-Information Feature Transp...</text>
   <circle cx="24" cy="96" r="4" fill="#2563EB"/>
   <text class="meta" x="34" y="100">Python</text>
   <g class="twinkle">
